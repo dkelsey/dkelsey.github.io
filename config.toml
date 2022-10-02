@@ -1,0 +1,4 @@
+baseURL = 'https://dkelsey.github.io/'
+languageCode = 'en-us'
+title = 'My Thoughts in Writing'
+theme = "ananke"
