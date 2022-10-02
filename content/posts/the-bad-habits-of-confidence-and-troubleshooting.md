@@ -1,7 +1,7 @@
 ---
 title: "The Bad Habits of Confidence and Troubleshooting"
 date: 2019-01-27T10:20:20-07:00
-draft: true
+draft: false
 ---
 
 I've come to the recognition that I spend a large quantity of time, in meetings, listening to people discuss technical issues...

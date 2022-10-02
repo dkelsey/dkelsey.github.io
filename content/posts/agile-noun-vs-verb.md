@@ -1,7 +1,7 @@
 ---
 title: "Agile - Noun vs Verb"
 date: 2019-01-26T10:20:38-07:00
-draft: true
+draft: false
 ---
 
 People understand what _agility_ is.  They hear references to _agile_ is software development. Often I see that people are unclear on
