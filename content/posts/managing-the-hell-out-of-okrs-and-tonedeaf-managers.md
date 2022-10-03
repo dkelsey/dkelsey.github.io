@@ -8,11 +8,18 @@ draft: true
 
 > Continuously improve our mature services
 
-something like that.
+oh here it is:
+
+> **OKR#1 – Continuous Service Improvement**
+> Continuously improve DPD’s established services to delight clients and streamline delivery
+
+
+Something like that.
+Every time I looked at it, it had changed.
 
 I sat in on the management meetings where this OKR was discussed.
 
-My understanding of Continuous improvement of mature services resonated with Capability Maturity models.
+My understanding of Continuous Improvement of Mature Services resonated with what I'd been reading about Capability Maturity Models. I was reading about Site Reliability Engineering and Maturity Models were brought up there.
 
 They all start the same and as the org becomes more capable, more mature, ....
 
@@ -36,10 +43,12 @@ I think they thought
 * out of date.
 * an old fart.
 
+I believe they took two meetings to discuss not using the label _"Mature Services"_; these meeting took place once a week.   
+They managed the hell out of it and changed it to "established services."  Ug.
 Mature and Legacy systems have some interesting definitions.
 * the systems nobody cares about, that makes us all our money.
 
-They were fare more interested in hearing about "new and exciting features that were being added to our _mature_ services" . 
+They were far more interested in hearing about "new and exciting features that were being added to our _mature_ services" . 
 
 > "the internet is now on the COM-PU-TER!"  - Homer Simpson
 

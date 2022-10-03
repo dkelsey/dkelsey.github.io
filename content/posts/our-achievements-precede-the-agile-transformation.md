@@ -1,5 +1,5 @@
 ---
-title: "Our Acheivements Preceid the Agile Transformation"
+title: "Our Achievements Precedes the Agile Transformation"
 date: 2022-10-02T19:21:42-07:00
 draft: true
 ---
