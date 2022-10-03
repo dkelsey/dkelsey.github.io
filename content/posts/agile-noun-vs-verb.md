@@ -17,6 +17,6 @@ Agile, is simply ways of thinking that guide how we act and what we value.
 
 Practices like Scrum, Kanban, Lean have _rituals_, practices, and tools that guide us dummies on how we work.
 These are guides that instruct us on how to work.  While we are working, within these "ways of working" we are always,
-"looking at the poster on the wall " or making choices of how we behave based on our beleifs, as outlines in the Agile Manifesto.
+"looking at the poster on the wall " or making choices of how we behave based on our beliefs, as outlines in the Agile Manifesto.
 
 That's it.

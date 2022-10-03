@@ -7,17 +7,17 @@ draft: true
 My musings on the state of affairs at DataBC.
 
 ## Historically
-* They followed the Gov's higherarchical command and controll organization.
+* They followed the Gov's hierarchical command and control organization.
 * They have technical people manage projects and pay vendors to do the work.
-* Projects are deliverred to the spec defined by the stakeholder.
+* Projects are delivered to the spec defined by the stakeholder.
 * They, like everyone else, is excited and eager to adopt new technology.  
 
 ## When I joined
 I joined as the two senior systems people, Operations people, parted.   
-The culture valued technical solutioning, building, solving challenges quickly.
+The culture valued technical solution-ing, building, solving challenges quickly.
 
-When I started I became accoutable for the successfull operation of: 
-* 27 production critial line of business Tomcat applications, 
+When I started I became accountable for the successful operation of: 
+* 27 production critical line of business Tomcat applications, 
 * The Kong API Gateway, which was both an experiment, and a critical line of business application - GDX's analytics team ran the Corporate Enterprise Analytics platform through the Gateway.
 
 These services were unsupportable.
@@ -28,10 +28,10 @@ Not a single piece of documentation existed containing required information nece
 * No list of key contacts, stakeholders, clients.
 * No pointers to sources of documentation.
 * No description of where the service ran, nor how to successfully stop or start the service.
-* No list of test cases or test data that can be used to assess the successfull operation of these service.
+* No list of test cases or test data that can be used to assess the successful operation of these service.
 * No description required skills or privileges necessary to manage or exercise the service.
 
-I would say it was even worse than this as, there were a number of undocumented, unfinished, "creative solutions" pepperred throughout the infrastructure, taking advantage of, at the time, bleeding edge technology.  All untouched by anyone for a few years; Unknown by anyone.
+I would say it was even worse than this as, there were a number of undocumented, unfinished, "creative solutions" peppered throughout the infrastructure, taking advantage of, at the time, bleeding edge technology.  All untouched by anyone for a few years; Unknown by anyone.
 
 ## I realized a few things
 1. No one was left who was around when these things were built and deployed.
@@ -43,19 +43,19 @@ I would say it was even worse than this as, there were a number of undocumented,
 
 I'm drawing from "uncle Bob's Clean Code" talk.
 
-He describes how, with a green field project programmers can move like lighning and acheive amazing things quickly.
+He describes how, with a green field project programmers can move like lightning and achieve amazing things quickly.
 As time progresses and the code base grows, it becomes harder and harder for the programmers to add features and fix bugs.
 
 Whey?
 
-Bob describes the senario:
+Bob describes the scenario:
 
 How many of you have experience this:
 
 you work on a hard problem and you try a bunch of things and eventually you get it to work.  
 You yell "no body tough it! Quick check it in!"
 
-You congratulate eachother, and move on.
+You congratulate each other, and move on.
 
 Fixing the problem is not finishing.  
 Your next task is to "clean" the code.  Re-write, refactor, so that the code makes sense, does what it's supposed to do, is maintainable.
@@ -73,7 +73,7 @@ I have been reading about Site Reliability Engineering.   I have a track record 
 1. I started Operational Playbooks.
 2. I started to record every incident in JIRA tickets.
 3. I started Blame-Free Post Incident Reviews
-4. I started regular "sharing sessions" where I explained my understanding of how things worked - and reviewed docmentation.
+4. I started regular "sharing sessions" where I explained my understanding of how things worked - and reviewed documentation.
 5. I made initiating and continuously revising documentation part of my job.
 
 I did this for 3 years, not just in the last two weeks as I was heading out the door, as our directory of technology stated.
@@ -82,8 +82,8 @@ I did this for 3 years, not just in the last two weeks as I was heading out the 
 
 ## I see a recurring pattern in organizations
 
-1. One hero, with skills and tallent, tackels the hard problems.
-2. They are successfull at first, for a while.
+1. One hero, with skills and talent, tackles the hard problems.
+2. They are successful at first, for a while.
 3. The continue to get more and more thrown at them.
 4. Eventually, they max out; they can't do more, they are spending all their time "servicing interrupts".
 
